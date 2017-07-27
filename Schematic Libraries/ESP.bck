@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP-01
+D ESP8266-based microcontroller (small, limited pins)
+K ESP8266, WiFi
+$ENDCMP
+#
+#End Doc Library
